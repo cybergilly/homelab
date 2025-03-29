@@ -126,8 +126,6 @@ Click to expand Virtual Machines
 
 4. **Finish Setup**: Complete the configuration and power on the VM.
 
-Click to expand Creating Virtual Machines
-
 ---
 
 ### 4. **Networking Setup**
@@ -182,10 +180,6 @@ Click to expand Networking Setup
 +---------------+
 ```
 
-Click to expand Network Diagram
-
----
-
 ### 6. **Projects for Hands-On Experience**
 
 1. **Penetration Testing**:
@@ -211,8 +205,3 @@ Click to expand Network Diagram
 6. **Logging and Monitoring**:
 
     - Install the **ELK Stack** (Elasticsearch, Logstash, Kibana) on Ubuntu Server to analyze logs generated from other VMs.
-
-
-
----
-

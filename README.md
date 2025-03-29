@@ -1,8 +1,6 @@
 # Cybersecurity Homelab
 
----
-
-## Mastercrafted Homelab Setup Guide
+Homelab Setup Guide
 
 ### 1. **Prerequisites**
 
